@@ -10,7 +10,7 @@ prompt can run the Mac out of memory, two separate float32 leaks make it about t
 and its draft head won't load. `patches.py` fixes all five without touching the library's files. The rest of this
 repo is the launcher and the test scripts used to find and check the fixes.
 
-The bugs are reported upstream at ISSUE_URL.
+The bugs are reported upstream: [mlx-vlm issue #2714](https://github.com/Neywa-Labs/mlx-vlm/issues/2714).
 
 ## Results
 
