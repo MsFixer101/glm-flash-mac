@@ -82,4 +82,4 @@ mlx 0.32.4, mlx-vlm 0.7.12 (git @7230940), transformers 5.22.1, Python 3.11. Mod
 
 ## Licence
 
-Licence: TBD
+MIT (see `LICENSE`).
